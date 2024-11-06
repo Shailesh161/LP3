@@ -1,0 +1,2 @@
+In 0/1 knapsack we can either put it completely or not . we can put half as we have done in the greedy appraoch in fractional knapsack
+
